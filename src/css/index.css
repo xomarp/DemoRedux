@@ -1,0 +1,88 @@
+
+body{
+	font-family: "Apple Garamond";
+}
+.LoginSection-btn {
+	background: none;
+	border: none;
+	font-size: 17px;
+	cursor: pointer;
+	font-weight: bold;
+	color: #1f2836;
+}
+.form-control, .btn, p{
+	font-size: 17px;
+}
+.center{
+	text-align: center;
+}
+.cursor{
+	cursor: pointer;
+}
+.section{
+	margin-top: 5px;
+}
+hr {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.col-xs-12{
+	padding: 0px;
+	float: none;
+}
+.post, .new-comment{
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+.title{
+	text-align: center;
+	color: white;
+	background-color: #000;
+	cursor: pointer;
+	line-height: 1.5;
+	border: 1px solid #000;
+	margin: 0px;
+}
+/**.title:hover{
+	color: black;
+	background-color: white;
+}**/
+.contenu{
+	color: black;
+	background-color: #CCC;
+	margin: 0px;
+	padding: 1px;
+}
+.contenu span{
+	font-size: 17px;
+}
+.inline{
+	display: inline-block;
+}
+hr{
+	width: 80%;
+	color: #000;
+}
+.a-comment{
+	font-size: 19px; cursor: pointer;
+}
+.glyphicon-ok, .glyphicon-remove{
+	right: 1%;
+}
+p.inscription, p.connexion{
+	font-size: 12px;
+}
+p.help-block{
+	color: white;
+	background-color: #d9534f;
+	color: #f2dede !important;
+	text-align: center;
+}
+.glyphicon-remove{
+	color: #a94442;
+}
+.glyphicon-ok{
+	color: #3c763d;
+}
